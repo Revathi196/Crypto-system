@@ -1,0 +1,5 @@
+Install the Required Library: The system uses the pycryptodome library. You can install it using pip:
+pip install pycryptodome
+
+Run the Code: To run the system, simply execute the main.py file:
+python main.py
