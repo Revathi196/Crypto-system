@@ -1,0 +1,26 @@
+Welcome to the Cryptography System!
+
+Do you want to (1) generate a new key or (2) use an existing key? Enter 1 or 2: 1
+New encryption key generated.
+
+--- Menu ---
+1. Encrypt a message
+2. Decrypt a message
+3. Save the encryption key to a file
+4. Load the encryption key from a file
+5. Exit
+Select an option: 1
+Enter the message to encrypt: Hello, World!
+Encrypted message: <encrypted_message>
+IV (initialization vector): <iv>
+
+--- Menu ---
+1. Encrypt a message
+2. Decrypt a message
+3. Save the encryption key to a file
+4. Load the encryption key from a file
+5. Exit
+Select an option: 2
+Enter the IV (initialization vector) of the message: <iv>
+Enter the encrypted message: <encrypted_message>
+Decrypted message: Hello, World!
